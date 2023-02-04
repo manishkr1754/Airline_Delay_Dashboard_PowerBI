@@ -2,7 +2,7 @@
 Airline Flight Delay Analytics using PowerBI
 
 # Problem Statement
-Records for 5,000,000+ commercial airline flights in 2015, compiled for the U.S. DOT Air Travel Consumer Report. Each record represents a single flight, including the airline name, flight number, origin/destination airport and flight distance, as well as scheduled/actual departure and arrival times.
+Records for **5,000,000+ commercial airline flights** in 2015, compiled for the U.S. DOT Air Travel Consumer Report. Each record represents a single flight, including the airline name, flight number, origin/destination airport and flight distance, as well as scheduled/actual departure and arrival times.
 
 ## Recommended Analysis
 
@@ -15,7 +15,12 @@ Records for 5,000,000+ commercial airline flights in 2015, compiled for the U.S.
     4. How many flights were cancelled in 2015? What % of cancellations were due to weather? What % were due to the Airline/Carrier?
 
     5. Which airlines seem to be most and least reliable, in terms of on-time departure?
+    
+# Approach
+Analysed **5.82Mn rows data** across **30 fields** to determine flight volume variations, departure delay percentages and times, cancellations causes and flight reliability of airlines from  **ETL(Extract, Transform & Load) to Visualization**.
 
+# Outcome
+Improved understanding of flight volume and delays through **data-driven analysis and recommendations**, enhancing operational efficiency and informed decision-making. 
 
 
 # Summary Dashboard
